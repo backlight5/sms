@@ -1,0 +1,13 @@
+<template>
+    <div>大盒子
+        <div>
+            頂部
+            <div>
+                公司圖標
+            </div>
+            <div>
+                導航欄
+            </div>
+        </div>
+    </div>
+</template>
